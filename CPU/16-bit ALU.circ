@@ -3,15 +3,8 @@
 This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
 <lib desc="#Wiring" name="0">
     <tool name="Splitter">
-<<<<<<< HEAD
       <a name="fanout" val="3"/>
       <a name="incoming" val="16"/>
-=======
-      <a name="facing" val="west"/>
-      <a name="fanout" val="3"/>
-      <a name="incoming" val="16"/>
-      <a name="appear" val="center"/>
->>>>>>> aff3d077258d37e106cda0f5e4b60f182878859b
       <a name="bit1" val="0"/>
       <a name="bit2" val="0"/>
       <a name="bit3" val="0"/>
@@ -1305,7 +1298,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <wire from="(460,170)" to="(460,210)"/>
     <wire from="(590,130)" to="(590,250)"/>
     <wire from="(690,390)" to="(760,390)"/>
-<<<<<<< HEAD
+
     <comp lib="3" loc="(660,790)" name="Subtractor">
       <a name="width" val="16"/>
     </comp>
@@ -1331,8 +1324,6 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="incoming" val="16"/>
       <a name="appear" val="right"/>
     </comp>
-=======
->>>>>>> aff3d077258d37e106cda0f5e4b60f182878859b
     <comp lib="0" loc="(350,210)" name="Pin">
       <a name="width" val="16"/>
       <a name="tristate" val="false"/>
@@ -1380,8 +1371,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
     <comp lib="1" loc="(1200,630)" name="NOR Gate">
       <a name="inputs" val="16"/>
     </comp>
-<<<<<<< HEAD
-=======
+
     <comp lib="0" loc="(1270,630)" name="Pin">
       <a name="facing" val="west"/>
       <a name="output" val="true"/>
@@ -1395,7 +1385,7 @@ This file is intended to be loaded by Logisim (http://www.cburch.com/logisim/).
       <a name="label" val="Operation"/>
       <a name="labelloc" val="south"/>
     </comp>
->>>>>>> aff3d077258d37e106cda0f5e4b60f182878859b
+
     <comp lib="0" loc="(640,700)" name="Pin">
       <a name="facing" val="north"/>
       <a name="output" val="true"/>

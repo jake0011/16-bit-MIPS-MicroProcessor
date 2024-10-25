@@ -1,4 +1,4 @@
-# MIPS IMPLEMENTATION
+# MICROPROCESSOR DESIGN: MIPS IMPLEMENTATION
 
 A 16-bit CPU implementation based on the MIPS Instruction Set Architecture (ISA).
 
